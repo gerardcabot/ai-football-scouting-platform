@@ -3,7 +3,7 @@
 > **A full-stack Football Analytics Platform powered by Machine Learning**  
 > Predict career potential for U-21 talents, explore player performance data, and build custom scouting models – all in one place.
 
-**Live Demo:** [https://react-flask-psi.vercel.app/](https://react-flask-psi.vercel.app/)
+**Live App:** [https://react-flask-psi.vercel.app/](https://react-flask-psi.vercel.app/)
 
 ---
 
